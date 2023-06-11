@@ -1,0 +1,31 @@
+
+body {
+    background-color: black;
+}
+
+
+
+
+p {
+
+
+    color: black;
+    background-color: pink;
+    font-size: 50px;
+}
+
+p.nome {
+    background-color: red;
+}
+
+p#nomeId {
+    background-color: aqua;
+}
+
+div {
+    width: 150px;
+    background-color: green;
+    border-radius: 15%;
+    padding: 15px;
+}
+
